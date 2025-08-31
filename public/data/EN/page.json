@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nom": "Home",
+    "navigation": "Home",
+    "titre": "YLGraphiste3D – * Web Developer",
+    "meta": "Web and Software Development",
+    "lien": null
+  },
+  {
+    "id": 2,
+    "nom": "Menu",
+    "navigation": "Menu & Services",
+    "titre": "YLGraphiste3D – * My Services",
+    "meta": "YLGraphiste3D – My Services",
+    "lien": null
+  },
+  {
+    "id": 3,
+    "nom": "NostraHistoria",
+    "navigation": "Learn more",
+    "titre": "YLGraphiste3D – * Who am I?",
+    "meta": "YLGraphiste3D – Who am I?",
+    "lien": null
+  },
+  {
+    "id": 4,
+    "nom": "MentionLegal",
+    "navigation": "Legal Notice",
+    "titre": "Legal Notice",
+    "meta": "Legal Notice",
+    "lien": null
+  }
+]

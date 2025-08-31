@@ -1,0 +1,33 @@
+[
+  
+  {
+    "id": "1",
+    "title": "Asesoría",
+    "price": "$76.800",
+    "features": ["Auditoría rápida", "1h de llamada", "Informe en PDF"]
+  },
+  {
+    "id": "2",
+    "title": "Inicial",
+    "price": "$94.156",
+    "features": [
+      "Sitio ya preparado al 80%",
+      "Optimización SEO",
+      "Identidad gráfica personalizada",
+      "Soporte por correo electrónico durante 6 meses",
+      "Módulo adicional posible (bajo presupuesto)"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Premium",
+    "price": "$47.000/h",
+    "features": [
+      "Desarrollo completo",
+      "Optimización SEO",
+      "Mini juego",
+      "CRM",
+      "Soporte y mantenimiento"
+    ]
+  }
+]

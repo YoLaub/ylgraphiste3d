@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "pageId": 1,
+    "type": "concept",
+    "titre": "A digital solution tailored to your needs.",
+    "texte": "Every project is unique: whether it's creating a website, optimizing your online presence, or developing a custom tool, I support you at every step to turn your ideas into concrete and effective solutions.",
+    "button": "Discover my services",
+    "images": "/images/concept.jpg"
+  },
+  {
+    "id": 2,
+    "pageId": 1,
+    "type": "menu",
+    "titre": "Contact me",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 3,
+    "pageId": 1,
+    "type": "event",
+    "titre": "Our culinary destinations",
+    "texte": "Find our Breton cuisine in Mendoza, Argentina, from October to the end of December 2025, then again from March to May 2026.\n<br>And for a summer full of indulgence, we'll be in Punta del Este, Uruguay, from late December 2025 to late February 2026.",
+    "images": "/images/carte_amérique_du_sud.webp"
+  },
+  {
+    "id": 4,
+    "pageId": 1,
+    "type": "event-bouton",
+    "titre": "Contact me!",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 13,
+    "pageId": 1,
+    "type": "instagram",
+    "titre": null,
+    "texte": "Find us soon on Instagram to follow our adventure!",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 5,
+    "pageId": 2,
+    "type": "prestation",
+    "titre": "My services",
+    "texte": "Choose the formula that suits your needs.",
+    "images": null
+  },
+  {
+    "id": 6,
+    "pageId": 2,
+    "type": "event-bouton",
+    "titre": "Contact me",
+    "texte": "Crêpes – a true icon of Breton gastronomy, the crêpe comes in sweet or plain versions, with its thin, delicate batter made from soft wheat. Garnished to your taste — Nutella, fresh strawberries, dulce de leche, or homemade salted butter caramel — it promises a moment of sweetness, between tradition and pleasure.<br><br>Galettes – an iconic savory specialty from Brittany, the galette is made from buckwheat flour, giving it a rustic texture and authentic taste. Generously filled with egg, ham, and melted cheese, it can be enjoyed at any time for a Breton escape full of character.<br><br>Quiche Lorraine – originating from the Lorraine region in France, this classic recipe of French cuisine combines a tender shortcrust pastry with a creamy filling of fresh cream, eggs, and smoked bacon. Best enjoyed hot or warm, served with a crisp salad for a simple, tasty, and elegant break.",
+    "images": null
+  },
+  {
+    "id": 7,
+    "pageId": 2,
+    "type": "download",
+    "titre": "Download our menu!",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 8,
+    "pageId": 2,
+    "type": "instagram",
+    "titre": null,
+    "texte": "Find us soon on Instagram to follow our adventure!",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 9,
+    "pageId": 3,
+    "type": "intro-nostra",
+    "titre": "Our Story",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 10,
+    "pageId": 3,
+    "type": "nostra-concept",
+    "titre": "My journey",
+    "texte": "After several years in the kitchen — a world where rigor, creativity, and adaptability are essential — I chose to turn to my true passion: web development and programming. This experience taught me to take on challenges, work as part of a team, and pay attention to detail — qualities I now bring to your digital projects.",
+    "images": null
+  },
+  {
+    "id": 11,
+    "pageId": 3,
+    "type": "mission",
+    "titre": "My vision",
+    "texte": "Digital can seem complex, but with clear and pedagogical guidance, it becomes a real opportunity. My approach: tailor-made solutions, consistent with your needs, designed with an eco-friendly mindset.",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 12,
+    "pageId": 3,
+    "type": "valeur",
+    "titre": "Additional skills",
+    "texte": "Beyond web development, I also master 3D modeling and video editing. These skills can complement your existing projects or become standalone projects, depending on your needs.",
+    "images": "/images/decor.webp"
+  },
+  {
+    "id": 14,
+    "pageId": 4,
+    "type": "mention",
+    "titre": "Legal notice",
+    "texte": "<p><strong>Site publisher:</strong><br>This website ([www.la-petite-bretagne.com]) is published by [Juan GIBSON and Alexandre HOVELAQUE], located in [Mendoza], SIRET: [SIRET].<br>Email: <a href='mailto:[mdz.bzh@gmail.com]'>[mdz.bzh@gmail.com]</a></p><p><strong>Hosting:</strong><br>[OVH] - [2, rue Kellermann, 59100 Roubaix]</p><p><strong>Website purpose:</strong><br>This website aims to present the event service [La petite Bretagne], its services, and its menu, available online or for download.</p><p><strong>Responsibility:</strong><br>The content is provided for informational purposes only. The publisher cannot be held responsible for errors, omissions, or technical issues.</p><strong>Personal data</strong><p>In accordance with the French Data Protection Act (Law No. 78-17), no personal data is collected without your consent. No information is shared with third parties.<br>You may exercise your rights of access, rectification, or deletion at the following address: <a href='mailto:[mdz.bzh@gmail.com]'>[mdz.bzh@gmail.com]</a></p><p>Supervisory authority: CNIL - <a href='https://www.cnil.fr' target='_blank'>www.cnil.fr</a></p><strong>Cookies</strong><p>The site may use cookies for technical or analytical purposes. You can disable them in your browser settings.</p><strong>Intellectual property</strong><p>The content on this site (texts, images, graphics, logo) is the property of [Juan GIBSON and Alexandre HOVELAQUE], unless otherwise stated. Any reproduction is prohibited without written authorization.</p><strong>Credits</strong><p><a href='https://www.flaticon.com/free-icons/spain' title='spain icons'>Spain icons created by Roundicons - Flaticon</a><br /><a href='https://www.flaticon.com/free-icons/uk' title='uk icons'>UK icons created by Roundicons - Flaticon</a><br /><a href='https://www.flaticon.com/free-icons/portugal' title='portugal icons'>Portugal icons created by Roundicons - Flaticon</a><br /><a href='https://www.flaticon.com/free-icons/france' title='france icons'>France icons created by Roundicons - Flaticon</a></p><strong>Downloadable menu</strong><p>The menu offered for download is provided for informational purposes only. It may be modified without notice.</p><p>© [2025] - [La petite Bretagne]. All rights reserved.</p>",
+    "images": null
+  },
+  {
+    "id": 15,
+    "pageId": 1,
+    "type": "acces-menu",
+    "titre": "Portfolio",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 16,
+    "pageId": 2,
+    "type": "menu-pres",
+    "titre": "Menu",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 17,
+    "pageId": 1,
+    "type": "geoloc",
+    "titre": null,
+    "texte": "Find us here!",
+    "texte2": "Currently on the road, contact us through our form to plan your event!",
+    "images": null
+  },
+  {
+    "id": 18,
+    "pageId": 3,
+    "type": "event-bouton",
+    "titre": "Contact me",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 19,
+    "pageId": 1,
+    "type": "portfolio",
+    "titre": "Portfolio",
+    "texte": "project(s)",
+    "texte2": "Featured",
+    "texte3": "View project",
+    "images": null
+  },
+  {
+    "id": 20,
+    "pageId": 2,
+    "type": "process",
+    "titre": "Collaboration Process",
+    "texte": "From defining needs to delivery.",
+    "images": null
+  }
+]

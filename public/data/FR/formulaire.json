@@ -1,0 +1,15 @@
+[
+  {
+    "id": 0,
+    "type": "evenement",
+    "titre": "Prise de contact",
+    "champ_1": "Ton Email...",
+    "champ_2": "Objet",
+    "champ_3": "Message",
+    "champ_7": "J'accepte la politique de confidentialité",
+    "etat_1": "Envoi en cours…",
+    "etat_2": "Envoyer!",
+    "success": "Votre demande a été envoyée avec succès !",
+    "erreur": "Une erreur est survenue. Veuillez réessayer."
+  }
+]

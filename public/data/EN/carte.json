@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Showcase Website",
+    "description": "Gastronomic showcase website, multilingual, editable, contact form and menu download",
+    "image": "/images/la-petite-bretagne.webp",
+    "tags": [
+      "Vue 3",
+      "Tailwind",
+      "Vite"
+    ],
+    "link": "https://www.la-petite-bretagne.com",
+    "repo": "#",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Mini-Game",
+    "description": "JavaScript mini-game, SEO improvement, gamification",
+    "image": "/images/orbe.webp",
+    "tags": [
+      "Javascript"
+    ],
+    "link": "#",
+    "repo": "#"
+  },
+  {
+    "id": 3,
+    "title": "CMS - WordPress",
+    "description": "Custom theme, blog, module setup and maintenance",
+    "image": "https://picsum.photos/seed/shop/800/450",
+    "tags": [
+      "WordPress",
+      "PHP",
+      "JQuery"
+    ],
+    "link": "#",
+    "repo": "#"
+  },
+  {
+    "id": 4,
+    "title": "Mockups",
+    "description": "Creation of modern UX/UI mockups",
+    "image": "/images/maquette.webp",
+    "tags": [
+      "Figma",
+      "Photoshop"      
+    ],
+    "link": "#",
+    "repo": "#"
+  },
+  {
+    "id": 5,
+    "title": "CRM",
+    "description": "Secure backend, user data management, internal chat",
+    "image": "/images/CRM.webp",
+    "tags": [
+      "Laravel",
+      "Vue.js",
+      "Tailwind"     
+    ],
+    "link": "#",
+    "repo": "#"
+  }
+]

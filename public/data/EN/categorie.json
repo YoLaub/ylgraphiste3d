@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1",
+    "title": "Consulting",
+    "price": "$57",
+    "features": [
+      "Quick audit",
+      "1h call",
+      "PDF report"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Starter",
+    "price": "$700",
+    "features": [
+      "Website already 80% ready",
+      "SEO optimization",
+      "Custom brand identity",
+      "Email support for 6 months",
+      "Additional module available (on quote)"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Premium",
+    "price": "$35/h",
+    "features": [
+      "Full development",
+      "SEO optimization",
+      "Mini game",
+      "CRM",
+      "Support and maintenance"
+    ]
+  }
+]

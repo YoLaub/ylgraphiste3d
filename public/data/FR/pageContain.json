@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "pageId": 1,
+    "type": "concept",
+    "titre": "Une solution digitale adaptée à vos besoins.",
+    "texte": "Chaque projet est unique : que ce soit pour créer un site web, optimiser votre présence en ligne ou développer un outil sur mesure, je vous accompagne à chaque étape pour transformer vos idées en solutions concrètes et efficaces",
+    "button": "Découvre mes services",
+    "images": "/images/concept.jpg" 
+  },
+  {
+    "id": 2,
+    "pageId": 1,
+    "type": "menu",
+    "titre": "Me contacter",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 3,
+    "pageId": 1,
+    "type": "event",
+    "titre": "Nos destinations culinaires",
+    "texte": "Retrouvez notre cuisine bretonne à Mendoza en Argentine, d'octobre à fin décembre 2025, puis à nouveau de mars à mai 2026.\n<br>Et pour un été sous le signe de la gourmandise, nous serons à Punta del Este en Uruguay, de fin décembre 2025 à fin février 2026.",
+    "images": "/images/carte_amérique_du_sud.webp" 
+  },
+  {
+    "id": 4,
+    "pageId": 1,
+    "type": "event-bouton",
+    "titre": "Me contacter",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 13,
+    "pageId": 1,
+    "type": "instagram",
+    "titre": null,
+    "texte": "Retrouve nous bientôt sur Instagram pour suivre notre aventure!",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 5,
+    "pageId": 2,
+    "type": "prestation",
+    "titre": "Mes prestations",
+    "texte": "Choisissez la formule adaptée à vos besoins.",
+    "images": null
+  },
+  {
+    "id": 6,
+    "pageId": 2,
+    "type": "event-bouton",
+    "titre": "Me contacter",
+    "texte": "Les crêpes véritable icône de la gastronomie bretonne, la crêpe se décline en version sucrée ou nature, avec sa pâte fine et délicate à base de blé tendre. Garnie selon vos envies — Nutella, fraises fraîches, dulce de leche, ou encore caramel au beurre salé maison — elle promet un moment de douceur, entre tradition et plaisir. <br> <br> Les galettes spécialité salée emblématique de la Bretagne, la galette est confectionnée à partir de farine de sarrasin, lui conférant une texture rustique et un goût authentique. Généreusement garnie d'œuf, de jambon et de fromage fondant, elle se savoure à toute heure, pour une escapade bretonne pleine de caractère. <br> <br> La quiche lorraine originaire de la région Lorraine en France, cette recette classique de la cuisine française marie une pâte brisée fondante à une garniture onctueuse composée de crème fraîche, œufs et poitrine fumée. À déguster chaude ou tiède, accompagnée d'une salade croquante, pour une pause à la fois simple, savoureuse et élégante.",
+    "images": null
+  },
+  {
+    "id": 7,
+    "pageId": 2,
+    "type": "download",
+    "titre": "Télécharge notre menu !",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 8,
+    "pageId": 2,
+    "type": "instagram",
+    "titre": null,
+    "texte": "Retrouve nous bientôt sur Instagram pour suivre notre aventure!",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 9,
+    "pageId": 3,
+    "type": "intro-nostra",
+    "titre": "Nuestra Historia",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 10,
+    "pageId": 3,
+    "type": "nostra-concept",
+    "titre": "Mon parcours",
+    "texte": "Après plusieurs années en cuisine, un univers où rigueur, créativité et adaptabilité sont indispensables, j'ai choisi de me tourner vers ma véritable passion : le développement web et la programmation. Cette expérience m'a appris à relever des défis, à travailler en équipe et à rester attentif aux détails — des qualités que je mets aujourd'hui au service de vos projets digitaux.",
+    "images": null
+  },
+  {
+    "id": 11,
+    "pageId": 3,
+    "type": "mission",
+    "titre": "Ma vision",
+    "texte": "Le digital peut sembler complexe, mais avec un accompagnement clair et pédagogique, il devient une vraie opportunité. Mon approche : des solutions sur mesure, cohérentes avec vos besoins, et pensées dans une logique éco-responsable.",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 12,
+    "pageId": 3,
+    "type": "valeur",
+    "titre": "Compétences additionnelles",
+    "texte": "Au-delà du développement web, je maîtrise la modélisation 3D et le montage vidéo. Ces compétences peuvent compléter vos projets existants ou devenir des projets à part entière, selon vos besoins.",
+    "images": "/images/decor.webp"
+  },
+  {
+    "id": 14,
+    "pageId": 4,
+    "type": "mention",
+    "titre": "Mentions légale",
+    "texte": "<p><strong>Éditeur du site :</strong><br>Ce site web www.YLGraphiste3D.com est édité par Yoann Laubert, situé à Vannes, SIRET : [SIRET].<br>Email : <a href='mailto:yl.graphiste3d@gmail.com'>yl.graphiste3d@gmail.com</a></p><p><strong>Hébergeur :</strong><br[OVH - 2, rue Kellermann, 59100 Roubaix</p><p><strong>Objet du site :</strong><br>Ce site a pour vocation de présenter le service de développement web et logiciel, ses services, disponible en ligne.</p><p><strong>Responsabilité :</strong><br>Les contenus sont donnés à titre informatif. L'éditeur ne saurait être tenu pour responsable des erreurs, omissions ou dysfonctionnements techniques.</p><strong>Données personnelles</strong><p>Conformément à la loi Informatique et Libertés (Loi n°78-17), aucune donnée personnelle n'est collectée sans votre consentement. Aucune information n'est cédée à des tiers.<br>Vous pouvez exercer vos droits d'accès, de rectification ou de suppression à l'adresse suivante : <a href='mailto:yl.graphiste3d@gmail.com'>yl.graphiste3d@gmail.com</a></p><p>Autorité de contrôle : CNIL - <a href='https://www.cnil.fr' target='_blank'>www.cnil.fr</a></p><strong>Cookies</strong><p>Le site peut utiliser des cookies à des fins techniques ou d'analyse. Vous pouvez les désactiver dans les paramètres de votre navigateur.</p><strong>Propriété intellectuelle</strong><p>Les contenus présents sur ce site (textes, images, graphismes, logo) sont la propriété de Yoann Laubert, sauf mention contraire. Toute reproduction est interdite sans autorisation écrite.</p><strong>Crédits</strong><p> <a href='https://www.flaticon.com/free-icons/spain' title='spain icons'>Spain icons created by Roundicons - Flaticon</a> <br /> <a href='https://www.flaticon.com/free-icons/uk' title='uk icons'>Uk icons created by Roundicons - Flaticon</a> <br /> <a href='https://www.flaticon.com/free-icons/portugal' title='portugal icons'>Portugal icons created by Roundicons - Flaticon</a> <br /> <a href='https://www.flaticon.com/free-icons/france' title='france icons'>France icons created by Roundicons - Flaticon</a> </p><strong>Menu téléchargeable</strong><p>Le menu proposé en téléchargement est fourni à titre indicatif. Il peut être modifié sans préavis.</p><p>© [2025] - [YLGraphiste3D]. Tous droits réservés.</p>",
+    "images": null
+  },
+  {
+    "id": 15,
+    "pageId": 1,
+    "type": "acces-menu",
+    "titre": "Portfolio",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 16,
+    "pageId": 2,
+    "type": "menu-pres",
+    "titre": "Menu",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 17,
+    "pageId": 1,
+    "type": "geoloc",
+    "titre": null,
+    "texte": "Retouve nous ici !",
+    "texte2": "Actuellement en route, contacte nous via notre formulaire pour préparer ton évènement!",
+    "images": null
+  },
+  {
+    "id": 18,
+    "pageId": 3,
+    "type": "event-bouton",
+    "titre": "Me contacter",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 19,
+    "pageId": 1,
+    "type": "portfolio",
+    "titre": "Portfolio",
+    "texte": "projet(s)",
+    "texte2": "En vedette",
+    "texte3": "Voir le projet",
+    "images": null
+  },
+  {
+    "id": 20,
+    "pageId": 2,
+    "type": "process",
+    "titre": "Déroulement d'une collaboration",
+    "texte": "De la définition des besoins à la livraison.",
+    "images": null
+  }
+]

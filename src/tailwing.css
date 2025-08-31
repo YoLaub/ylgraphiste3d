@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+/* montserrat-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat4';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/montserrat-v30-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* montserrat-900 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat9';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/fonts/montserrat-v30-latin-900.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* fira-code-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Fira Code4';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/fira-code-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* fira-code-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Fira Code9';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/fira-code-v26-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+.menu-font {
+  font-family: "Fira Code9";
+}
+
+@theme {
+  --breakpoint-xs: 20rem;
+  --breakpoint-2xl: 100rem;
+  --breakpoint-3xl: 120rem;
+
+  --aspect-portrait: 9 / 24;
+
+  --color-crepe: #E8A96B;
+  --color-crepe2: #FAE4CE;
+  --color-galette: #A8674D;
+  --color-rougeLPB: #D93927;
+  --color-ardoise: #0A2938;
+
+  --color-fond: #EDEDED;
+  --color-primaire: #10B981;
+  --color-text: #2C2C2C;
+  --color-accent: #2563EB;
+
+
+}

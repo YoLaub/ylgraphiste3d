@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Define the needs",
+    "description": "Target your goals, your audience and your constraints.",
+    "image": "https://cdn-icons-png.flaticon.com/512/2910/2910768.png"
+  },
+  {
+    "title": "Wireframe & Prototyping",
+    "description": "Creation of a wireframe and an initial interactive version to validate your ideas.",
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "title": "Development",
+    "description": "Technical setup, feature integration, and quality testing.",
+    "image": "https://cdn-icons-png.flaticon.com/512/2889/2889676.png"
+  },
+  {
+    "title": "Delivery",
+    "description": "Production deployment and support for onboarding.",
+    "image": "https://cdn-icons-png.flaticon.com/512/190/190411.png"
+  }
+]

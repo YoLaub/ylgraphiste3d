@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nom": "Home",
+    "navigation": "Accueil",
+    "titre": "YLGraphiste3D – * Developpeur web",
+    "meta": "Developpement web et logiciel",
+    "lien": null
+  },
+  {
+    "id": 2,
+    "nom": "Menu",
+    "navigation": "Menu & Prestation",
+    "titre": "YLGraphiste3D – * Mes prestations",
+     "meta": "YLGraphiste3D – Mes prestations",
+    "lien": null
+  },
+  {
+    "id": 3,
+    "nom": "NostraHistoria",
+    "navigation": "En savoir +",
+    "titre": "YLGraphiste3D – * Qui suis-je ?",
+    "meta": "YLGraphiste3D – Qui suis-je ?",
+    "lien": null
+  },
+  {
+    "id": 4,
+    "nom": "MentionLegal",
+    "navigation": "Mentions legales",
+    "titre":  "Mentions Legales",
+    "meta": "Mentions Legale",
+    "lien": null
+  }
+]

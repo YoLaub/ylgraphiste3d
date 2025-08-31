@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "pageId": 1,
+    "type": "concept",
+    "titre": "Uma solução digital adaptada às suas necessidades.",
+    "texte": "Cada projeto é único: seja a criação de um site, a otimização da sua presença online ou o desenvolvimento de uma ferramenta personalizada, eu te acompanho em cada etapa para transformar suas ideias em soluções concretas e eficazes.",
+    "button": "Descubra meus serviços",
+    "images": "/images/concept.jpg"
+  },
+  {
+    "id": 2,
+    "pageId": 1,
+    "type": "menu",
+    "titre": "Entre em contato",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 3,
+    "pageId": 1,
+    "type": "event",
+    "titre": "Nossos destinos culinários",
+    "texte": "Encontre nossa culinária bretã em Mendoza, Argentina, de outubro até o final de dezembro de 2025, e novamente de março a maio de 2026.\n<br>E para um verão cheio de sabor, estaremos em Punta del Este, Uruguai, do final de dezembro de 2025 até o final de fevereiro de 2026.",
+    "images": "/images/carte_amérique_du_sud.webp"
+  },
+  {
+    "id": 4,
+    "pageId": 1,
+    "type": "event-bouton",
+    "titre": "Entre em contato!",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 13,
+    "pageId": 1,
+    "type": "instagram",
+    "titre": null,
+    "texte": "Em breve no Instagram para acompanhar nossa aventura!",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 5,
+    "pageId": 2,
+    "type": "prestation",
+    "titre": "Meus serviços",
+    "texte": "Escolha a fórmula que melhor atende às suas necessidades.",
+    "images": null
+  },
+  {
+    "id": 6,
+    "pageId": 2,
+    "type": "event-bouton",
+    "titre": "Entre em contato",
+    "texte": "Crêpes – um verdadeiro ícone da gastronomia bretã, a crêpe pode ser doce ou simples, com sua massa fina e delicada feita de trigo. Recheada ao seu gosto — Nutella, morangos frescos, doce de leite ou caramelo salgado caseiro — ela promete um momento de doçura, entre tradição e prazer.<br><br>Galettes – uma especialidade salgada icônica da Bretanha, a galette é feita com farinha de trigo sarraceno, proporcionando uma textura rústica e um sabor autêntico. Generosamente recheada com ovo, presunto e queijo derretido, pode ser apreciada a qualquer momento para uma escapada bretã cheia de caráter.<br><br>Quiche Lorraine – originária da região da Lorena, na França, esta receita clássica da culinária francesa combina uma massa crocante com um recheio cremoso de creme de leite fresco, ovos e bacon defumado. Melhor apreciada quente ou morna, servida com uma salada crocante para uma pausa simples, saborosa e elegante.",
+    "images": null
+  },
+  {
+    "id": 7,
+    "pageId": 2,
+    "type": "download",
+    "titre": "Baixe nosso cardápio!",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 8,
+    "pageId": 2,
+    "type": "instagram",
+    "titre": null,
+    "texte": "Em breve no Instagram para acompanhar nossa aventura!",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 9,
+    "pageId": 3,
+    "type": "intro-nostra",
+    "titre": "Nossa história",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 10,
+    "pageId": 3,
+    "type": "nostra-concept",
+    "titre": "Minha trajetória",
+    "texte": "Após vários anos na cozinha — um mundo onde rigor, criatividade e adaptabilidade são essenciais — escolhi seguir minha verdadeira paixão: o desenvolvimento web e a programação. Essa experiência me ensinou a enfrentar desafios, trabalhar em equipe e prestar atenção aos detalhes — qualidades que agora aplico aos seus projetos digitais.",
+    "images": null
+  },
+  {
+    "id": 11,
+    "pageId": 3,
+    "type": "mission",
+    "titre": "Minha visão",
+    "texte": "O digital pode parecer complexo, mas com uma orientação clara e pedagógica, torna-se uma verdadeira oportunidade. Minha abordagem: soluções sob medida, consistentes com suas necessidades, pensadas com uma mentalidade sustentável.",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 12,
+    "pageId": 3,
+    "type": "valeur",
+    "titre": "Habilidades adicionais",
+    "texte": "Além do desenvolvimento web, também domino modelagem 3D e edição de vídeo. Essas habilidades podem complementar seus projetos existentes ou se tornar projetos independentes, dependendo das suas necessidades.",
+    "images": "/images/decor.webp"
+  },
+  {
+    "id": 14,
+    "pageId": 4,
+    "type": "mention",
+    "titre": "Aviso legal",
+    "texte": "<p><strong>Editor do site:</strong><br>Este site ([www.la-petite-bretagne.com]) é publicado por [Juan GIBSON e Alexandre HOVELAQUE], localizado em [Mendoza], SIRET: [SIRET].<br>Email: <a href='mailto:[mdz.bzh@gmail.com]'>[mdz.bzh@gmail.com]</a></p><p><strong>Hospedagem:</strong><br>[OVH] - [2, rue Kellermann, 59100 Roubaix]</p><p><strong>Objetivo do site:</strong><br>Este site tem como objetivo apresentar o serviço de eventos [La petite Bretagne], seus serviços e seu cardápio, disponível online ou para download.</p><p><strong>Responsabilidade:</strong><br>O conteúdo é fornecido apenas para fins informativos. O editor não pode ser responsabilizado por erros, omissões ou problemas técnicos.</p><strong>Dados pessoais</strong><p>De acordo com a Lei Francesa de Proteção de Dados (Lei nº 78-17), nenhum dado pessoal é coletado sem o seu consentimento. Nenhuma informação é compartilhada com terceiros.<br>Você pode exercer seus direitos de acesso, retificação ou exclusão no seguinte endereço: <a href='mailto:[mdz.bzh@gmail.com]'>[mdz.bzh@gmail.com]</a></p><p>Autoridade supervisora: CNIL - <a href='https://www.cnil.fr' target='_blank'>www.cnil.fr</a></p><strong>Cookies</strong><p>O site pode utilizar cookies para fins técnicos ou analíticos. Você pode desativá-los nas configurações do seu navegador.</p><strong>Propriedade intelectual</strong><p>O conteúdo deste site (textos, imagens, gráficos, logotipo) é propriedade de [Juan GIBSON e Alexandre HOVELAQUE], salvo indicação em contrário. Qualquer reprodução é proibida sem autorização por escrito.</p><strong>Créditos</strong><p><a href='https://www.flaticon.com/free-icons/spain' title='spain icons'>Ícones da Espanha criados por Roundicons - Flaticon</a><br /><a href='https://www.flaticon.com/free-icons/uk' title='uk icons'>Ícones do Reino Unido criados por Roundicons - Flaticon</a><br /><a href='https://www.flaticon.com/free-icons/portugal' title='portugal icons'>Ícones de Portugal criados por Roundicons - Flaticon</a><br /><a href='https://www.flaticon.com/free-icons/france' title='france icons'>Ícones da França criados por Roundicons - Flaticon</a></p><strong>Cardápio para download</strong><p>O cardápio disponível para download é fornecido apenas para fins informativos. Pode ser modificado sem aviso prévio.</p><p>© [2025] - [La petite Bretagne]. Todos os direitos reservados.</p>",
+    "images": null
+  },
+  {
+    "id": 15,
+    "pageId": 1,
+    "type": "acces-menu",
+    "titre": "Portfólio",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 16,
+    "pageId": 2,
+    "type": "menu-pres",
+    "titre": "Cardápio",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 17,
+    "pageId": 1,
+    "type": "geoloc",
+    "titre": null,
+    "texte": "Encontre-nos aqui!",
+    "texte2": "Atualmente na estrada, entre em contato conosco através do formulário para planejar seu evento!",
+    "images": null
+  },
+  {
+    "id": 18,
+    "pageId": 3,
+    "type": "event-bouton",
+    "titre": "Entre em contato",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 19,
+    "pageId": 1,
+    "type": "portfolio",
+    "titre": "Portfólio",
+    "texte": "projeto(s)",
+    "texte2": "Destaque",
+    "texte3": "Ver projeto",
+    "images": null
+  },
+  {
+    "id": 20,
+    "pageId": 2,
+    "type": "process",
+    "titre": "Processo de colaboração",
+    "texte": "Da definição das necessidades até a entrega.",
+    "images": null
+  }
+]

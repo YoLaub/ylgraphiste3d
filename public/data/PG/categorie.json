@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Consultoria",
+    "price": "R$76.800",
+    "features": ["Auditoria rápida", "1h de chamada", "Relatório em PDF"]
+  },
+  {
+    "id": "2",
+    "title": "Inicial",
+    "price": "R$94.1560",
+    "features": [
+      "Site já preparado em 80%",
+      "Otimização de SEO",
+      "Identidade visual personalizada",
+      "Suporte por e-mail durante 6 meses",
+      "Módulo adicional possível (baixo orçamento)"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Premium",
+    "price": "R$47.000/h",
+    "features": [
+      "Desenvolvimento completo",
+      "Otimização de SEO",
+      "Mini jogo",
+      "CRM",
+      "Suporte e manutenção"
+    ]
+  }
+]

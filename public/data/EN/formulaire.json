@@ -1,0 +1,15 @@
+[
+  {
+    "id": 0,
+    "type": "evenement",
+    "titre": "Contact Request",
+    "champ_1": "Your Email...",
+    "champ_2": "Subject",
+    "champ_3": "Message",
+    "champ_7": "I accept the privacy policy",
+    "etat_1": "Sending…",
+    "etat_2": "Send!",
+    "success": "Your request has been sent successfully!",
+    "erreur": "An error occurred. Please try again."
+  }
+]

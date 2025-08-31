@@ -1,0 +1,15 @@
+[
+  {
+    "id": 0,
+    "type": "evenement",
+    "titre": "Toma de contacto",
+    "champ_1": "Tu correo electrónico...",
+    "champ_2": "Asunto",
+    "champ_3": "Mensaje",
+    "champ_7": "Acepto la política de privacidad",
+    "etat_1": "Enviando…",
+    "etat_2": "¡Enviar!",
+    "success": "¡Su solicitud ha sido enviada con éxito!",
+    "erreur": "Ha ocurrido un error. Por favor, inténtelo de nuevo."
+  }
+]

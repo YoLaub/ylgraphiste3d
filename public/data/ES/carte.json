@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Sitio vitrina",
+    "description": "Sitio vitrina gastronómico, multilingüe, editable, con formulario de contacto y descarga del menú",
+    "image": "/images/la-petite-bretagne.webp",
+    "tags": [
+      "Vue 3",
+      "Tailwind",
+      "Vite"
+    ],
+    "link": "https://www.la-petite-bretagne.com",
+    "repo": "#",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Mini-Juego",
+    "description": "Mini juego en JavaScript, mejora del posicionamiento SEO, gamificación",
+    "image": "/images/orbe.webp",
+    "tags": [
+      "Javascript"
+    ],
+    "link": "#",
+    "repo": "#"
+  },
+  {
+    "id": 3,
+    "title": "CMS - WordPress",
+    "description": "Tema personalizado, blog, implementación de módulos y mantenimiento",
+    "image": "https://picsum.photos/seed/shop/800/450",
+    "tags": [
+      "WordPress",
+      "PHP",
+      "JQuery"
+    ],
+    "link": "#",
+    "repo": "#"
+  },
+  {
+    "id": 4,
+    "title": "Maquetas",
+    "description": "Creación de maquetas UX/UI modernas",
+    "image": "/images/maquette.webp",
+    "tags": [
+      "Figma",
+      "Photoshop"      
+    ],
+    "link": "#",
+    "repo": "#"
+  },
+  {
+    "id": 5,
+    "title": "CRM",
+    "description": "Backend seguro, gestión de datos de usuarios, chat interno",
+    "image": "/images/CRM.webp",
+    "tags": [
+      "Laravel",
+      "Vue.js",
+      "Tailwind"     
+    ],
+    "link": "#",
+    "repo": "#"
+  }
+]

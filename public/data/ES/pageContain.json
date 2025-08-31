@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "pageId": 1,
+    "type": "concept",
+    "titre": "Una solución digital adaptada a tus necesidades.",
+    "texte": "Cada proyecto es único: ya sea para crear un sitio web, optimizar tu presencia en línea o desarrollar una herramienta a medida, te acompaño en cada etapa para transformar tus ideas en soluciones concretas y eficaces.",
+    "button": "Descubre mis servicios",
+    "images": "/images/concept.jpg"
+  },
+  {
+    "id": 2,
+    "pageId": 1,
+    "type": "menu",
+    "titre": "Contáctame",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 3,
+    "pageId": 1,
+    "type": "event",
+    "titre": "Nuestros destinos culinarios",
+    "texte": "Encuentra nuestra cocina bretona en Mendoza, Argentina, de octubre a finales de diciembre de 2025, y nuevamente de marzo a mayo de 2026.\n<br>Y para un verano lleno de sabores, estaremos en Punta del Este, Uruguay, desde finales de diciembre de 2025 hasta finales de febrero de 2026.",
+    "images": "/images/carte_amérique_du_sud.webp"
+  },
+  {
+    "id": 4,
+    "pageId": 1,
+    "type": "event-bouton",
+    "titre": "¡Contáctame!",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 13,
+    "pageId": 1,
+    "type": "instagram",
+    "titre": null,
+    "texte": "¡Encuéntranos pronto en Instagram para seguir nuestra aventura!",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 5,
+    "pageId": 2,
+    "type": "prestation",
+    "titre": "Mis servicios",
+    "texte": "Elige la fórmula que mejor se adapte a tus necesidades.",
+    "images": null
+  },
+  {
+    "id": 6,
+    "pageId": 2,
+    "type": "event-bouton",
+    "titre": "Contáctame",
+    "texte": "Las crêpes, verdadero ícono de la gastronomía bretona, se presentan en versión dulce o simple, con su masa fina y delicada a base de trigo blando. Rellenas según tus gustos —Nutella, fresas frescas, dulce de leche o caramelo de mantequilla salada casero— prometen un momento de dulzura, entre tradición y placer. <br><br> Las galettes, especialidad salada emblemática de Bretaña, se elaboran con harina de trigo sarraceno, lo que les da una textura rústica y un sabor auténtico. Generosamente rellenas de huevo, jamón y queso fundido, se disfrutan a cualquier hora, para una escapada bretona llena de carácter. <br><br> La quiche lorraine, originaria de la región de Lorena en Francia, es una receta clásica de la cocina francesa que combina una masa quebrada tierna con un relleno cremoso de nata fresca, huevos y panceta ahumada. Se disfruta caliente o templada, acompañada de una ensalada crujiente, para una pausa simple, sabrosa y elegante.",
+    "images": null
+  },
+  {
+    "id": 7,
+    "pageId": 2,
+    "type": "download",
+    "titre": "¡Descarga nuestro menú!",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 8,
+    "pageId": 2,
+    "type": "instagram",
+    "titre": null,
+    "texte": "¡Encuéntranos pronto en Instagram para seguir nuestra aventura!",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 9,
+    "pageId": 3,
+    "type": "intro-nostra",
+    "titre": "Nuestra Historia",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 10,
+    "pageId": 3,
+    "type": "nostra-concept",
+    "titre": "Mi trayectoria",
+    "texte": "Después de varios años en la cocina, un universo donde la disciplina, la creatividad y la adaptabilidad son indispensables, decidí orientarme hacia mi verdadera pasión: el desarrollo web y la programación. Esta experiencia me enseñó a enfrentar desafíos, a trabajar en equipo y a prestar atención a los detalles —cualidades que hoy pongo al servicio de tus proyectos digitales.",
+    "images": null
+  },
+  {
+    "id": 11,
+    "pageId": 3,
+    "type": "mission",
+    "titre": "Mi visión",
+    "texte": "Lo digital puede parecer complejo, pero con un acompañamiento claro y pedagógico, se convierte en una verdadera oportunidad. Mi enfoque: soluciones a medida, coherentes con tus necesidades y pensadas con una lógica eco-responsable.",
+    "images": "/images/truck.png"
+  },
+  {
+    "id": 12,
+    "pageId": 3,
+    "type": "valeur",
+    "titre": "Competencias adicionales",
+    "texte": "Más allá del desarrollo web, domino la modelización 3D y la edición de video. Estas competencias pueden complementar tus proyectos existentes o convertirse en proyectos completos por sí mismos, según tus necesidades.",
+    "images": "/images/decor.webp"
+  },
+  {
+    "id": 14,
+    "pageId": 4,
+    "type": "mention",
+    "titre": "Aviso legal",
+    "texte": "<p><strong>Editor del sitio:</strong><br>Este sitio web www.YLGraphiste3D.com es editado por Yoann Laubert, ubicado en Vannes, SIRET: [SIRET].<br>Email: <a href='mailto:yl.graphiste3d@gmail.com'>yl.graphiste3d@gmail.com</a></p><p><strong>Alojamiento:</strong><br>[OVH - 2, rue Kellermann, 59100 Roubaix</p><p><strong>Objeto del sitio:</strong><br>Este sitio tiene como objetivo presentar el servicio de desarrollo web y de software, sus servicios disponibles en línea.</p><p><strong>Responsabilidad:</strong><br>Los contenidos se proporcionan a título informativo. El editor no se hace responsable de errores, omisiones o fallos técnicos.</p><strong>Datos personales</strong><p>De acuerdo con la Ley de Informática y Libertades (Ley n°78-17), no se recopilan datos personales sin tu consentimiento. Ninguna información se cede a terceros.<br>Puedes ejercer tus derechos de acceso, rectificación o supresión en la siguiente dirección: <a href='mailto:yl.graphiste3d@gmail.com'>yl.graphiste3d@gmail.com</a></p><p>Autoridad de control: CNIL - <a href='https://www.cnil.fr' target='_blank'>www.cnil.fr</a></p><strong>Cookies</strong><p>El sitio puede utilizar cookies con fines técnicos o de análisis. Puedes desactivarlas en la configuración de tu navegador.</p><strong>Propiedad intelectual</strong><p>Los contenidos presentes en este sitio (textos, imágenes, gráficos, logotipo) son propiedad de Yoann Laubert, salvo mención contraria. Toda reproducción está prohibida sin autorización escrita.</p><strong>Créditos</strong><p><a href='https://www.flaticon.com/free-icons/spain' title='spain icons'>Spain icons creados por Roundicons - Flaticon</a><br/><a href='https://www.flaticon.com/free-icons/uk' title='uk icons'>Uk icons creados por Roundicons - Flaticon</a><br/><a href='https://www.flaticon.com/free-icons/portugal' title='portugal icons'>Portugal icons creados por Roundicons - Flaticon</a><br/><a href='https://www.flaticon.com/free-icons/france' title='france icons'>France icons creados por Roundicons - Flaticon</a></p><strong>Menú descargable</strong><p>El menú ofrecido para descargar se proporciona a título indicativo. Puede modificarse sin previo aviso.</p><p>© [2025] - [YLGraphiste3D]. Todos los derechos reservados.</p>",
+    "images": null
+  },
+  {
+    "id": 15,
+    "pageId": 1,
+    "type": "acces-menu",
+    "titre": "Portafolio",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 16,
+    "pageId": 2,
+    "type": "menu-pres",
+    "titre": "Menú",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 17,
+    "pageId": 1,
+    "type": "geoloc",
+    "titre": null,
+    "texte": "¡Encuéntranos aquí!",
+    "texte2": "Actualmente en camino, contáctanos a través de nuestro formulario para preparar tu evento.",
+    "images": null
+  },
+  {
+    "id": 18,
+    "pageId": 3,
+    "type": "event-bouton",
+    "titre": "Contáctame",
+    "texte": null,
+    "images": null
+  },
+  {
+    "id": 19,
+    "pageId": 1,
+    "type": "portfolio",
+    "titre": "Portafolio",
+    "texte": "proyecto(s)",
+    "texte2": "Destacado",
+    "texte3": "Ver el proyecto",
+    "images": null
+  },
+  {
+    "id": 20,
+    "pageId": 2,
+    "type": "process",
+    "titre": "Desarrollo de una colaboración",
+    "texte": "Desde la definición de las necesidades hasta la entrega.",
+    "images": null
+  }
+]

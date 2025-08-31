@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Definir las necesidades",
+    "description": "Define tus objetivos, tu audiencia y tus limitaciones.",
+    "image": "https://cdn-icons-png.flaticon.com/512/2910/2910768.png"
+  },
+  {
+    "title": "Maqueta y Prototipado",
+    "description": "Creación de un wireframe y una primera versión interactiva para validar tus ideas.",
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "title": "Desarrollo",
+    "description": "Implementación técnica, integración de funcionalidades y pruebas de calidad.",
+    "image": "https://cdn-icons-png.flaticon.com/512/2889/2889676.png"
+  },
+  {
+    "title": "Entrega",
+    "description": "Puesta en producción y acompañamiento para la puesta en marcha.",
+    "image": "https://cdn-icons-png.flaticon.com/512/190/190411.png"
+  }
+]

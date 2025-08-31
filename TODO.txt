@@ -1,0 +1,45 @@
+MERCREDI - JEUDI 
+7-Numero et boite mail utiliser  == > bzh.mdz@gmail.com  +33 7 49 41 09 94
+
+8- SEO : META et ALT et Aria Label
+- Ouvrir directement le formulaire sur la page d'accueil pour préparer ton évènement
+
+
+
+Tour global !!
+
+
+
+
+
+
+
+
+AOUT
+10-Hebergement OVH - build - test
+9-CDN argentine - cloud flare
+
+
+FAIT
+3-Terminer affichage menu en Mobile !!! => OK
+4-Terminer formulaire d'evenement + ajouter case accepte la politique de confidentialité => OK
+5-Ajouter texte a prepare ton evenement en mobile => OK
+1-Terminer Json pour traduction => OK
+2-Ajouter les images au Json => OK
+6-Terminer version menu Canva - Ajouter condition menu fr - es - en - pg => OK
+8-Responsive
+9-Probleme de telechargement menu Mobile
+
+- Bloquer l'envoi du popup sans que les champs principaux ne soient remplis (dans prépare ton évènement) => OK
+- corriger le tel de juan en bas de page par + 33 7 49 41 09 94 (pour avoir l'indicatif français sinon ça passera pas sur whatsapp) => OK
+- l'affichage (au cas où des mec comme moi zomm à 200% lol) => OK
+- Corriger le titre de Nuestra Historia (sur l'onglet Nuestra Historia) => OK
+- ajouter une géolocalisation sur la page d'accueil au dessus de "nos destinations culinaires"
+- Tous les prix des cartes en Pesos (quelque soit la langue)  => OK
+-MAJ du contenu
+
+acces haut de page => menu plus telechager accès menu
+Telecharger => Télécarger menu!
+
+
+- Peux-ton ajouter le descriptif des crêpes, quiches et galettes? => A valider!
